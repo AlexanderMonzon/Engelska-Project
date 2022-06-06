@@ -110,6 +110,7 @@
 @media (max-width: 600px) {
     .contentbox {
         flex-direction: column;
+        padding-top: 5vh;
     }
 
     .content img {
