@@ -246,7 +246,7 @@ body {
         max-width: 70%;
         margin-left: 15vw;
         position: absolute;
-        margin-top: 15vh;
+        margin-top: 5vh;
         z-index: 2;
     }
     
@@ -270,7 +270,7 @@ body {
 
     /*Canterbury*/ 
     .content2 {
-        max-width: 100%;
+        max-width: 98%;
         height: 100%;
         padding-top: 8vh;
         padding-right: 5%;
